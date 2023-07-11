@@ -1,0 +1,37 @@
+E:\Agentes\Practica 1\Ecuaciones\bin\Debug\Ecuaciones.exe.config
+E:\Agentes\Practica 1\Ecuaciones\bin\Debug\Ecuaciones.exe
+E:\Agentes\Practica 1\Ecuaciones\bin\Debug\Ecuaciones.pdb
+E:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.csproj.AssemblyReference.cache
+E:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.csproj.SuggestedBindingRedirects.cache
+E:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.Form1.resources
+E:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.Properties.Resources.resources
+E:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.csproj.GenerateResource.cache
+E:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.csproj.CoreCompileInputs.cache
+E:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.exe
+E:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.pdb
+D:\Agentes\Practica 1\Ecuaciones\bin\Debug\Ecuaciones.exe.config
+D:\Agentes\Practica 1\Ecuaciones\bin\Debug\Ecuaciones.exe
+D:\Agentes\Practica 1\Ecuaciones\bin\Debug\Ecuaciones.pdb
+D:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.csproj.AssemblyReference.cache
+D:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.csproj.SuggestedBindingRedirects.cache
+D:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.Form1.resources
+D:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.Properties.Resources.resources
+D:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.csproj.GenerateResource.cache
+D:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.csproj.CoreCompileInputs.cache
+D:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.exe
+D:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.pdb
+D:\Agentes\Practica 1\Ecuaciones\bin\Debug\info.lundin.math.dll
+D:\Agentes\Practica 1\Ecuaciones\obj\Debug\Ecuaciones.csproj.CopyComplete
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\bin\Debug\Ecuaciones.exe.config
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\bin\Debug\Ecuaciones.exe
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\bin\Debug\Ecuaciones.pdb
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\bin\Debug\info.lundin.math.dll
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\obj\Debug\Ecuaciones.csproj.AssemblyReference.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\obj\Debug\Ecuaciones.csproj.SuggestedBindingRedirects.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\obj\Debug\Ecuaciones.Form1.resources
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\obj\Debug\Ecuaciones.Properties.Resources.resources
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\obj\Debug\Ecuaciones.csproj.GenerateResource.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\obj\Debug\Ecuaciones.csproj.CoreCompileInputs.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\obj\Debug\Ecuaciones.csproj.CopyComplete
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\obj\Debug\Ecuaciones.exe
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 1 Form\Ecuaciones\obj\Debug\Ecuaciones.pdb
